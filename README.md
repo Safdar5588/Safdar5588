@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am working in codee Techs as a frant hand web developer<br>
+I am working in codee Techs as a Frant End web developer<br>
 
 
 ## 🌐 Socials:
